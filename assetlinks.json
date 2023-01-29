@@ -1,0 +1,6 @@
+[{
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target" : { "namespace": "android_app", "package_name": "com.blogspot.your_herbals.twa",
+                     "sha256_cert_fingerprints": ["D6:78:1C:8B:02:34:B3:17:E0:6E:73:45:FA:D8:A5:89:07:7A:C5:0D:C6:D8:94:34:88:10:45:F0:85:01:2A:30"] }
+      }
+]
